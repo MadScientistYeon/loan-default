@@ -1980,5 +1980,5 @@ Set the baseline for comparison
 **Sources**
 
 [Presentation](submission/presentation.pdf)
-[Notebook](submission/notebook.ipynb)
+[Notebook](submission/notebook.pdf)
 [Github](submission/github.pdf)
