@@ -1977,6 +1977,8 @@ Set the baseline for comparison
 
 **If bank use our model to predict loan defaulter, bank will save 174,060,000 dollars from 27,398 future clients.**
 
-Presentation [link](submission/presentation.pdf)
-Notebook [link](submission/notebook.ipynb)
-Github [link](submission/github.pdf)
+**Sources**
+
+[Presentation](submission/presentation.pdf)
+[Notebook](submission/notebook.ipynb)
+[Github](submission/github.pdf)
