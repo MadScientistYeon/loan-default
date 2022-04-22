@@ -1970,7 +1970,7 @@ Set the baseline for comparison
     If approve loans with model
     Bank earned $336000000.0
     ----------------------------------
-    Earning Differecnce: 174060000.0
+    Earning Differecnce: $174060000.0
 
 
 # Conclusion
